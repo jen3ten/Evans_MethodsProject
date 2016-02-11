@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_MethodsProject_02062016\Week5_MethodsProject_02062016\bin\Debug\Week5_MethodsProject_02062016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_MethodsProject_02062016\Week5_MethodsProject_02062016\bin\Debug\Week5_MethodsProject_02062016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_MethodsProject_02062016\Week5_MethodsProject_02062016\bin\Debug\Week5_MethodsProject_02062016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_MethodsProject_02062016\Week5_MethodsProject_02062016\obj\Debug\Week5_MethodsProject_02062016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_MethodsProject_02062016\Week5_MethodsProject_02062016\obj\Debug\Week5_MethodsProject_02062016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_MethodsProject_02062016\Week5_MethodsProject_02062016\obj\Debug\Week5_MethodsProject_02062016.pdb
